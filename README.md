@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello everyone 👋
+
+😎 My name is Federico Frias and I'm a mobile software engineer. I build iOS native apps with Swift, Android apps with Kotlin and like to code my backends, API's and services using Golang.
+<br>
+<br>
+🏄 Some of the public repos on my github account are proofs of concepts of different technologies that I apply on a daily basis on the projects that I work on, and new things that I'm learning and trying.
+<br>
+<br>
+🌍 I love to be a Nomad.
 
 <!--
 **fedefrias/fedefrias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
